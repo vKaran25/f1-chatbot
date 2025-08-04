@@ -51,6 +51,5 @@ It will be trained on **Reddit meme page data** (e.g., r/formuladank, r/F1Memes)
 (current steps to run it locally)
 1. install the requirement in 'requirements.txt' file - pip install -r requirements.txt
 2. run command on terminal 'streamlit run main.py'
-
-## 📂 Project Structure (Planned)  
+  
 
